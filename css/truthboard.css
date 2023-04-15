@@ -3,7 +3,8 @@ Liminal Database
 [2020 Wikidot Theme]
 Created by Vizlox as the official Liminal Archives theme
  
-Logo graphic created by Atom_Rutherford
+New logo graphic created by OxygenNine;
+Edited for Truthboard by Lincarol(@ceteaonia) , Cupric Sulfate(@cc2007) , yu22c(@yu22c0w0) , HelloOSMe(@HelloOSMe).
 */
  
 @charset "utf-8";
@@ -3364,4 +3365,27 @@ table.page-history tr td:nth-child(2)  {
  .yui-navset .yui-navset-top .yui-content{
      padding: .5em;
      border: none;
+}
+/*修复链接位置*/
+#header h1{
+    width:100%;
+    margin:0px;
+    margin-top:45px;
+    text-align: -webkit-center;
+}
+#header h1 a{
+    margin:0px;
+    width:60%;
+    padding-bottom:1em;
+}
+#header h2{
+top:-0.7em;
+}
+@media screen and (max-width: 768px) {
+#header h1{
+    margin-top:40px;
+}
+#header h2{
+top:1em;
+}
 }
