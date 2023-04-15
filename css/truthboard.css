@@ -54,7 +54,7 @@ Logo graphic created by Atom_Rutherford
     --show-changes-ins-background: rgba(140,255,129,0.47);
  
     /* Body */
-    --body-background: #1b1b1b url(http://github.truthboard.eu.org/img/liminal-body-bg.png) repeat;
+    --body-background: #1b1b1b url(/img/liminal-body-bg.png) repeat;
  
     /* Footer */
     --footer-background: none;
@@ -84,7 +84,7 @@ Logo graphic created by Atom_Rutherford
     --header-icon-size: auto 110px;
  
     /* Header Background */
-    --header-background: url(http://github.truthboard.eu.org/img/liminal-header-bg.png);
+    --header-background: url(/img/liminal-header-bg.png);
  
     /* Set to hidden to enable custom text */
     --header-text-visibility: visible;
