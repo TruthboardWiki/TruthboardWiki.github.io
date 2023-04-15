@@ -190,7 +190,7 @@ div.page-rate-widget-box .rate-points {
  
     --header-font-primary: "Red Hat Display", "Noto Sans SC";
     --UI-font-primary: "Fira Code", "Noto Sans SC";
-    --mono-font-primary: "Fira Code", "Noto Serif SC";
+    --mono-font-primary: Menlo, Monaco, Consolas, "Lucida Console", "Ubuntu Mono","Fira Code", "Noto Serif SC";
  
     --header-border-width: 0rem;
     --header-title: 'TruthBoard';
