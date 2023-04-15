@@ -3232,7 +3232,7 @@ table.page-history tr td:nth-child(2)  {
 
 :root {
 
-    --header-icon: url(http://tb.helloos.eu.org/img/truthboard.svg);
+    --header-icon: url(https://tb.helloos.eu.org/img/truthboard.svg);
     --header-icon-adv: center -21vh no-repeat;
     --header-icon-size: auto 61vh;
 
@@ -3261,7 +3261,7 @@ table.page-history tr td:nth-child(2)  {
     #header {
         background-position: center 0vh;
         background-size: auto 18vh;
-        background-image: url(http://tb.helloos.eu.org/img/truthboard2.svg);
+        background-image: url(https://tb.helloos.eu.org/img/truthboard2.svg);
     }
 
     #header h2 {
