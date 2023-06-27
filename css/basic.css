@@ -236,7 +236,9 @@ Edited for Truthboard by Lincarol(@ceteaonia) , Cupric Sulfate(@cc2007) , yu22c(
     --modal-body-background: rgba(27,33,37,0.34);
     --modal-header-background: #14141a;
 }
- 
+body{
+font-family: "Noto Sans CJK SC",verdana,arial,helvetica,sans-serif;
+}
 /* Sidebar */
 #side-bar {
     position: absolute;
